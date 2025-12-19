@@ -1,0 +1,30 @@
+Which programming paradigm focuses on step-by-step instructions?
+OOP
+Procedural
+Declarative
+Event-driven
+B
+Which method takes input from console in C#?
+Console.Read
+Console.ReadKey
+Console.ReadLine
+Console.Input
+C
+Which method prints without newline?
+Console.Output
+Console.Write
+Console.WriteLine
+Console.Print
+B
+Which data type stores whole numbers?
+char
+float
+int
+bool
+C
+Which function converts a value to int?
+int.Parse()
+Convert.ToInt32()
+Convert.ToString()
+float.Parse()
+B
