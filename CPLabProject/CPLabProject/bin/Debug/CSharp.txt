@@ -1,0 +1,300 @@
+Which programming paradigm focuses on step-by-step instructions?
+OOP
+Procedural
+Declarative
+Event-driven
+B
+Which method takes input from console in C#?
+Console.Read
+Console.ReadKey
+Console.ReadLine
+Console.Input
+C
+Which method prints without newline?
+Console.Output
+Console.Write
+Console.WriteLine
+Console.Print
+B
+Which data type stores whole numbers?
+char
+float
+int
+bool
+C
+Which function converts a value to int?
+int.Parse()
+Convert.ToInt32()
+Convert.ToString()
+float.Parse()
+B
+Which symbols represent single-line comments?
+/*
+#
+//
+<!-- -->
+C
+Which loop is used when iterations are known?
+while
+do-while
+for
+foreach
+C
+Which loop executes at least once?
+for
+while
+do-while
+foreach
+C
+Which keyword stops loop execution?
+exit
+stop
+break
+continue
+C
+Which operator checks equality?
+=
+==
+equals
+===
+B
+Which is the logical AND?
+||
+&&
+&
++
+B
+Default value of int?
+null
+undefined
+0
+-1
+C
+Which keyword defines a constant?
+static
+var
+final
+const
+D
+What does % operator return?
+Product
+Remainder
+Quotient
+Power
+B
+Convert string to double?
+string.ToDouble
+Convert.ToDouble
+double.ParseString
+int.ParseDouble
+B
+What is 5/2 in integer division?
+3
+2.5
+2
+2.0
+C
+Which is a branching statement?
+select
+if-else
+repeat
+goto
+B
+Which is used for multiple conditions?
+switch
+if
+enum
+goto
+A
+Which jumps to labeled statement?
+continue
+break
+goto
+jump
+C
+Which type stores characters?
+string
+int
+char
+bool
+C
+Which stores true/false?
+bool
+char
+int
+byte
+A
+Which escape sequence is newline?
+\n
+\t
+\b
+\s
+A
+Which escape sequence is a tab?
+\n
+\r
+\t
+\b
+C
+Variable inside {} is?
+Static
+Global
+Local
+External
+C
+What does ReadLine() return?
+string
+int
+double
+char
+A
+Valid variable name?
+9num
+total#sum
+total_sum
+int
+C
+Which stores decimals?
+int
+float
+bool
+char
+B
+Range of bool?
+0–255
+true/false
+0–1
+any number
+B
+Which declares a variable?
+var
+int
+Both A and B
+declare
+C
+Which increments by 1?
+--
+++
++ 1
++= 2
+B
+10 % 3 = ?
+3
+1
+0
+10
+B
+Exit a method?
+break
+return
+stop
+exit
+B
+Skip current loop iteration?
+break
+return
+continue
+stop
+C
+Which is not a loop?
+for
+while
+foreach
+repeat
+D
+int.Parse("10") returns?
+char
+string
+int
+double
+C
+Which is OR?
+&&
+||
+|
+=>
+B
+Take key input without Enter?
+Console.ReadLine
+Console.Read
+Console.ReadKey
+Console.Input
+C
+Class to read file line by line?
+StreamReader
+FileReader
+FileScanner
+Reader
+A
+Which writes to a file?
+StreamOut
+Console.Write
+StreamWriter
+FileWriter
+C
+File.Exists returns?
+string
+int
+bool
+char
+C
+Loop for arrays?
+foreach
+while
+do-while
+repeat
+A
+First index of array?
+1
+0
+-1
+depends
+B
+Keyword for array?
+alloc
+malloc
+new
+create
+C
+true && false = ?
+true
+false
+null
+error
+B
+true || false = ?
+true
+false
+error
+null
+A
+String concatenation?
+*
+&
++
+:
+C
+Convert int to string?
+int.ToString()
+Convert.ToString()
+Both A and B
+ToStr()
+C
+Clear console?
+Console.Clear()
+Console.Reset()
+Console.Delete()
+Clear.Console()
+A
+Main entry method?
+static void begin()
+start()
+static void Main()
+main.start()
+C
+Procedural programming divides code into?
+Objects
+Classes
+Functions
+Packages
+C

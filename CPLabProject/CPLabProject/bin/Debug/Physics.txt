@@ -1,0 +1,60 @@
+The SI unit of force is:
+Joule
+Watt
+Newton
+Pascal
+C
+Which of the following is a vector quantity?
+Speed
+Mass
+Distance
+Velocity
+D
+Newton’s first law of motion is also called:
+Law of inertia
+Law of acceleration
+Law of action and reaction
+Law of momentum
+A
+The work done by a force is zero if:
+Force is zero
+Displacement is zero
+Force and displacement are perpendicular
+All of these
+D
+The dimension of momentum is:
+ML²T⁻²
+MLT⁻¹
+ML²T⁻¹
+MLT⁻²
+B
+The acceleration due to gravity on Earth is approximately:
+8.9 m/s²
+9.8 m/s²
+10.8 m/s²
+7.8 m/s²
+B
+Kinetic energy depends on:
+Velocity only
+Mass only
+Both mass and velocity
+Height
+C
+Which quantity remains conserved in an elastic collision?
+Kinetic energy
+Momentum
+Both A and B
+Neither A nor B
+C
+The slope of a displacement–time graph gives:
+Acceleration
+Velocity
+Speed
+Distance
+B
+Centripetal force always acts:
+Along velocity
+Opposite to velocity
+Towards center
+Away from center
+C

@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\bin\Debug\CPLabProject.exe.config
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\bin\Debug\CPLabProject.exe
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\bin\Debug\CPLabProject.pdb
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\obj\Debug\CPLabProject.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\obj\Debug\CPLabProject.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\obj\Debug\CPLabProject.exe
+D:\Documents\Visual Studio Projects\CPLabProject\CPLabProject\obj\Debug\CPLabProject.pdb
